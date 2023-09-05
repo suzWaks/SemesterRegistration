@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SemesterRegistration</string>
+    <string-array name="prgm">
+        <item>Information Technology</item>
+        <item>Electronics Communications</item>
+        <item>Electrical</item>
+        <item>Instrumentation Control</item>
+        <item>Geology</item>
+        <item>Architecture</item>
+        <item>Civil</item>
+        <item>Water Resource Management</item>
+        <item>Mechanical</item>
+    </string-array>
+
+    <string-array name="sem">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+        <item>Seventh</item>
+        <item>Eight</item>
+    </string-array>
+</resources>
